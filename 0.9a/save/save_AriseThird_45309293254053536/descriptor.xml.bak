@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<SaveGameData z="1">
+<portraitName>graphics/portraits/portrait_diktat01.png</portraitName>
+<characterName>Arise Third</characterName>
+<saveFileVersion>0.5</saveFileVersion>
+<characterLevel>54</characterLevel>
+<compressed>false</compressed>
+<isIronMode>false</isIronMode>
+<difficulty>normal</difficulty>
+<gameDate z="2">
+<secondsPerDay>10.0</secondsPerDay>
+<timestamp>-55300123471000</timestamp>
+</gameDate>
+<saveDate z="3">2019-03-10 03:28:01.889 UTC</saveDate>
+<allModsEverEnabled z="4">
+<com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData z="5">
+<spec z="6">
+<id>lw_lazylib</id>
+<version>2.4b</version>
+<desc>A collection of classes to aid modding. Not a mod in itself, but required by certain other mods.</desc>
+<name>LazyLib</name>
+<gameVersion>0.9a</gameVersion>
+<author>LazyWizard</author>
+<path>C:\Program Files (x86)\Fractal Softworks\Starsector\starsector-core\..\mods\LazyLib</path>
+<dirName>LazyLib</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>org.lazywizard.lazylib.LazyLib</modPluginClassName>
+<fullOverrides z="7"></fullOverrides>
+<jars z="8">
+<st>jars/LazyLib.jar</st>
+<st>jars/LazyLib-Kotlin.jar</st>
+<st>jars/lib/Kotlin-Runtime.jar</st>
+</jars>
+</spec>
+</com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData>
+<com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData z="9">
+<spec z="10">
+<id>shaderLib</id>
+<version>1.3.1</version>
+<desc>An arcane tome of black magic and sorcery.</desc>
+<name>ZZ GraphicsLib</name>
+<gameVersion>0.9a</gameVersion>
+<author>DarkRevenant</author>
+<path>C:\Program Files (x86)\Fractal Softworks\Starsector\starsector-core\..\mods\GraphicsLib</path>
+<dirName>GraphicsLib</dirName>
+<totalConversion>false</totalConversion>
+<utility>true</utility>
+<modPluginClassName>org.dark.shaders.ShaderModPlugin</modPluginClassName>
+<fullOverrides z="11"></fullOverrides>
+<jars z="12">
+<st>jars/Graphics.jar</st>
+</jars>
+</spec>
+</com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData>
+</allModsEverEnabled>
+<enabledMods z="13">
+<com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData z="14">
+<spec ref="6"></spec>
+</com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData>
+<com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData z="15">
+<spec ref="10"></spec>
+</com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData>
+</enabledMods>
+</SaveGameData>
