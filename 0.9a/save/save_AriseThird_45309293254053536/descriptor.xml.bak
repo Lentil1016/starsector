@@ -3,15 +3,15 @@
 <portraitName>graphics/portraits/portrait_diktat01.png</portraitName>
 <characterName>Arise Third</characterName>
 <saveFileVersion>0.5</saveFileVersion>
-<characterLevel>59</characterLevel>
+<characterLevel>60</characterLevel>
 <compressed>false</compressed>
 <isIronMode>false</isIronMode>
 <difficulty>normal</difficulty>
 <gameDate z="2">
 <secondsPerDay>10.0</secondsPerDay>
-<timestamp>-55135736397000</timestamp>
+<timestamp>-55112232723000</timestamp>
 </gameDate>
-<saveDate z="3">2019-03-19 16:59:37.592 UTC</saveDate>
+<saveDate z="3">2019-03-24 05:55:46.26 UTC</saveDate>
 <allModsEverEnabled z="4">
 <com.fs.starfarer.campaign.ModAndPluginData_-EnabledModData z="5">
 <spec z="6">
